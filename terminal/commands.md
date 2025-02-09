@@ -1,3 +1,6 @@
+#**Terminal commands**
+
+
 The **cd** command is used to change the current directory and navigate across the file directory of the user machine
 
 
@@ -40,3 +43,7 @@ _mv github/.gitignore ./_
 
 
 **cat** - is used to read data from a specified file and print 
+
+
+**man** -  is used to show manuals
+

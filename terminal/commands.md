@@ -1,4 +1,4 @@
-#**Terminal commands**
+# **Terminal commands**
 
 
 The **cd** command is used to change the current directory and navigate across the file directory of the user machine
